@@ -81,3 +81,11 @@ console.log(post(newFn, 12, 34));
 function gitClass() {
     console.log(`Git class Day - 1`);
 }
+
+function product(a, b) {
+    return a * b;
+}
+
+function divide(a, b) {
+    return a / b;
+}
