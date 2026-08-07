@@ -62,7 +62,7 @@ function post(fun1, a, b) {
     return x;
 }
 
-console.log(post(newFn, 12, 34));
+console.log(post(newFn, 12, 34)); //closure
 
 // console.log(get(23, 45));
 
@@ -91,5 +91,4 @@ function divide(a, b) {
 }
 
 class Person{
-    
 }
