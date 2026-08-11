@@ -61,5 +61,12 @@ Array.prototype.push = function () {
     console.log(`Nahi karna push!!!`)
 }
 
+function randomFunction() {
+    console.log(`Randome text`)
+}
+
 console.log(this);
+
+
+
 
