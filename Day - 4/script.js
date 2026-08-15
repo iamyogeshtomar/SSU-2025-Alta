@@ -61,6 +61,7 @@ Array.prototype.push = function () {
     console.log(`Nahi karna push!!!`)
 }
 
+<<<<<<< HEAD
 function randomFunction() {
     console.log(`Randome text`)
 }
@@ -70,3 +71,7 @@ console.log(this);
 
 
 
+=======
+console.log(this);
+
+>>>>>>> cce78f3162424e3743b603b889e23bbfd38b2d13
