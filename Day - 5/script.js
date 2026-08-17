@@ -58,3 +58,6 @@ console.log(n);
 const age = 20;
 
 const name = "Dipanshu";
+const name = "Abhishek";
+
+//Both the changes were kept
