@@ -53,3 +53,6 @@ const a3 = [456, 8765, "jsfjaf", "kjsanflnsaf"];
 const n = [...a1, ...a3, ...a2]
 
 console.log(n);
+
+
+const age = 12;
