@@ -56,3 +56,5 @@ console.log(n);
 
 
 const age = 20;
+
+const name = "Dipanshu";
