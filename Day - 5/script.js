@@ -55,4 +55,4 @@ const n = [...a1, ...a3, ...a2]
 console.log(n);
 
 
-const age = 12;
+const age = 20;
